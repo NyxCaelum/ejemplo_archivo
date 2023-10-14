@@ -1,4 +1,12 @@
 archivo inicial
 
+<<<<<<< HEAD
 
 master version 2 oyea
+=======
+experimental v2222
+
+segindo commit
+
+aaaaaa
+>>>>>>> experimental
